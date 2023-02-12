@@ -10,7 +10,7 @@ User1:
 
      password: welcome.   
 
-     Role    : ADMIN.   
+     Role    : ROLE_ADMIN.   
 
 User2:
 
@@ -18,7 +18,7 @@ User2:
 
     password: welcome.  
  
-    Role    : welcome.   
+    Role    : ROLE_USER.   
 
 
 The Swagger API documentation is available at     
